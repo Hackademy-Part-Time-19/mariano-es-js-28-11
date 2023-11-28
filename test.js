@@ -101,12 +101,6 @@ let agenda = {
     }   
 }
 
-//agenda.mostraContatti()
 
-agenda.modificaContatto("Fer","Luigi","3920323")
-
-
-
-agenda.mostraContatti()
 
 
