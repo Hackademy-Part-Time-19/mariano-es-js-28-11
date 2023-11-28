@@ -23,7 +23,7 @@ if (!titolo) {
     let date = new Date(); 
     let formatDate = date.toLocaleDateString()
 
-    feed.innerHTML += `<div style="display: flex; flex-direction: column; background-color: black; color: white; height: 300px; width: 300px;">
+    feed.innerHTML += `<div style="display: flex; flex-direction: column; background-color: black; color: white; height: 300px; width: 300px; border: 2px solid rgb(30, 158, 20); border-radius: 20px; margin: 10px; padding: 10px;">
     <h1>${titolo}</h1>
     <p>${paragrafo}</p>
 
