@@ -5,6 +5,7 @@
     
     
     function cambiaColore(){
+        
         let p1 = document.getElementById("p1");
         let p2 = document.getElementById("p2");
         let p3 = document.getElementById("p3");
@@ -36,8 +37,6 @@
     }
     
     function nascondi(){
-        
-        
         
         let p1 = document.getElementById("p1");
         let p2 = document.getElementById("p2");
